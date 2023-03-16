@@ -6,6 +6,10 @@ Q-Dietary Oxysterols and Diabetes
 
    lumache
 
+# REDCap
+
+## Screening Questionnaire
+
 ### Project Statistics
 
 +----------------------+----------------------+
@@ -13,6 +17,22 @@ Q-Dietary Oxysterols and Diabetes
 +======================+======================+
 |         109          | 03/16/2023 11:58am   |
 +----------------------+----------------------+
+
+
+### Data Quality Metrics
+
++-----------------------------------------------+---------------------+
+| Rule Name                                     | Total Discrepancies |
++===============================================+=====================+
+| Blank values* (required fields only)          | 166                 |
+| Field validation errors (incorrect data type) | 72                  |
+| Field validation errors (out of range)        | 0                   |
+| "Outliers for numerical fields                | 2                   |
+| Hidden fields that contain values***          | 11                  |
+| Multiple choice fields with invalid values    | 0                   |
+| Incorrect values for calculated fields        | 0                   |
++-----------------------------------------------+---------------------+
+
 
 ### Codebook
 
