@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to the MSM CRC Data Assets Documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
+   REDCap
    api
