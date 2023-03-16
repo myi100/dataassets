@@ -14,7 +14,7 @@ Screening Questionnaire
 =============
 
 Project Statistics
-=============
+~~~~~~~~~~~~~~~~~~
 
 +----------------------+----------------------+
 | Records in project   | Most recent activity |
@@ -24,7 +24,7 @@ Project Statistics
 
 
 Data Quality Metrics
-=============
+~~~~~~~~~~~~~~~~~~
 
 +-----------------------------------------------+---------------------+
 | Rule Name                                     | Total Discrepancies |
@@ -46,7 +46,7 @@ Data Quality Metrics
 
 
 Codebook
-=============
+~~~~~~~~~~~~~~~~~~
 
 +--------------------------------------------------+-------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
 | Variable / Field Name                            | Field LabelField Note                                                                           | Field Attributes (Field Type, Validation, Choices, Calculations, etc.)                                  |
