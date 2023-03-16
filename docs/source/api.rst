@@ -1,4 +1,4 @@
-API
+Q-Dietary Oxysterols and Diabetes
 ===
 
 .. autosummary::
