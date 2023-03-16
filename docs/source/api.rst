@@ -1,3 +1,4 @@
+=================================
 Q-Dietary Oxysterols and Diabetes
 =================================
 
@@ -6,11 +7,14 @@ Q-Dietary Oxysterols and Diabetes
 
    lumache
 
-# REDCap
+REDCap
+------
 
-## Screening Questionnaire
+Screening Questionnaire
+=============
 
-### Project Statistics
+Project Statistics
+=============
 
 +----------------------+----------------------+
 | Records in project   | Most recent activity |
@@ -19,7 +23,8 @@ Q-Dietary Oxysterols and Diabetes
 +----------------------+----------------------+
 
 
-### Data Quality Metrics
+Data Quality Metrics
+=============
 
 +-----------------------------------------------+---------------------+
 | Rule Name                                     | Total Discrepancies |
@@ -40,7 +45,8 @@ Q-Dietary Oxysterols and Diabetes
 +-----------------------------------------------+---------------------+
 
 
-### Codebook
+Codebook
+=============
 
 +--------------------------------------------------+-------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
 | Variable / Field Name                            | Field LabelField Note                                                                           | Field Attributes (Field Type, Validation, Choices, Calculations, etc.)                                  |
