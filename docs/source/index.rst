@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   REDCap
+   usage
    api
